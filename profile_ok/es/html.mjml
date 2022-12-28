@@ -1,0 +1,37 @@
+<mjml>
+    <mj-body background-color="#e6ecef">
+      <mj-section>
+        <mj-column >
+              <mj-spacer height="0" />
+          </mj-column>
+      </mj-section>
+      <mj-section background-color="#d1d5db" padding="1px" border-radius="12px 12px 0 0">
+        <mj-column border-radius="12px 12px 0 0" background-color="#2d3c4d">
+          <mj-image padding="48px" width="260px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/logo-reental.png" alt="Reental"/>
+        </mj-column>
+      </mj-section>
+      <mj-section background-color="#d1d5db" padding="1px" border-radius="0 0 12px 12px">
+        <mj-column border-radius="0 0 12px 12px" background-color="#ffffff">
+          <mj-text padding="32px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">¡Hola Reentel!</mj-text>
+  
+          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827"><b>¡Enhorabuena</b> hemos validado tu Wallet y tu KYC; a partir de este momento <b>puedes invertir en Reental y empezar a obtener rentabilidades de 2 dígitos anuales :)</b></mj-text>
+  
+          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827"><b>Ya contamos con más de 8.000 usuarios como tú que están aprovechando los beneficios de esta nueva forma de invertir, no dejes perder tu oportunidad</b>.</mj-text>
+  
+          <mj-text padding="16px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">¿Tienes dudas?</mj-text>
+          <mj-text padding="8px 32px" line-height="1.4" font-size="16px" color="#111827">Responde a este mail y te ayudaremos, o agenda una videollamada a través de nuestro servicio gratuito para Reentels:</mj-text>
+          <mj-image padding="8px 32px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/reental-calendar.png" alt="Reental"/>
+  
+          <mj-text padding="12px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">Un saludo</mj-text>
+          <mj-text padding="12px 32px 8px" font-weight="700" font-size="16px" color="#111827">Carmen de la Vara</mj-text>
+          <mj-text padding="0px 32px 24px" font-size="16px" color="#111827">Customer Success & Support Manager</mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column >
+              <mj-spacer height="0" />
+          </mj-column>
+      </mj-section>
+    </mj-body>
+  </mjml>
+  
