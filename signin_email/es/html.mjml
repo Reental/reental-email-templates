@@ -16,7 +16,7 @@
         <mj-text padding="8px 32px" font-weight="700" font-size="20px" color="#111827" >¡Aquí tienes tu enlace de acceso!</mj-text>
         <mj-text padding="6px 32px" font-size="16px" color="#111827" >Estás a punto de acceder a Reental.co con tu email.</mj-text>
         <mj-text padding="6px 32px 24px" font-size="16px" color="#111827" >Accede desde este email a tu cuenta y disfruta de la plataforma.</mj-text>
-        <mj-button href="#{callback}" padding="0px 32px" border-radius="16px" background-color="#FCA311" font-size="16px"	color="white">
+        <mj-button href="${callback}" padding="0px 32px" border-radius="16px" background-color="#FCA311" font-size="16px"	color="white">
           ACCEDER
         </mj-button>
         <mj-text padding="16px 32px 8px" line-height="1.5" font-size="16px" color="#111827" >Si usas móvil y quieres abrir la aplicación directamente en el explorador de metamask, copia este link y pégalo:</mj-text>
