@@ -16,8 +16,7 @@
   
           <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Estamos revisando tu solicitud de validación de datos personales y en breve nos pondremos en contacto contigo para darte las siguientes instrucciones que debes seguir para comenzar a invertir en inmuebles tokenizados.
 Éste proceso puede demorarse hasta 48 horas laborables así que te pedimos un poco de paciencia.</mj-text>
-<mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Si tienes alguna duda puedes contactar con nosotros en este mismo mail o en cualquiera de nuestras redes sociales.</mj-text>
-  
+<mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Si tienes alguna duda puedes contactar con nosotros en <b>hola@reental.co</b> o en cualquiera de nuestras redes sociales.</mj-text>  
   
           <mj-text padding="16px 32px 8px" font-weight="700" font-size="16px" color="#FCA311"><b>¿Tienes dudas?</b></mj-text>
           <mj-text padding="8px 32px" line-height="1.4" font-size="16px" color="#111827">Responde a este mail y te ayudaremos, o agenda una videollamada a través de nuestro servicio gratuito para Reentels:</mj-text>
