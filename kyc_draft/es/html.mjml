@@ -20,12 +20,11 @@
          
           <mj-button href="https://info.reental.co/hubfs/Ebook%20de%20Reental%20-%20Invertir%20desde%200%20VF2.pdf" padding="0px 32px" border-radius="16px" background-color="#FCA311" font-size="16px"	color="white">
             DESCARGAR GUÍA
-          </mj-button>
-          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Si tienes alguna duda puedes contactar con nosotros en <b>hola@reental.co</b> o en cualquiera de nuestras redes sociales.</mj-text>
-  
+          </mj-button>  
   
           <mj-text padding="16px 32px 8px" font-weight="700" font-size="16px" color="#FCA311"><b>¿Tienes dudas?</b></mj-text>
-          <mj-text padding="8px 32px" line-height="1.4" font-size="16px" color="#111827">Responde a este mail y te ayudaremos, o agenda una videollamada a través de nuestro servicio gratuito para Reentels:</mj-text>
+          <mj-text padding="8px 32px" line-height="1.4" font-size="16px" color="#111827">Si tienes alguna duda puedes contactar con nosotros en <b>hola@reental.co</b> o en cualquiera de nuestras redes sociales y te ayudaremos, o puedes agendar una videollamada a través de nuestro servicio gratuito para Reentels:</mj-text>
+
           <mj-image padding="8px 32px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/reental-calendar.png" href="https://info.reental.co/contacto#soporte" alt="Reental"/>
   
           <mj-text padding="12px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">Un saludo,</mj-text>
@@ -40,6 +39,5 @@
       </mj-section>
     </mj-body>
   </mjml>
-
 
 
