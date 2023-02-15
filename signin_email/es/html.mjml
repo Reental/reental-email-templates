@@ -7,8 +7,8 @@
     </mj-section>
     <mj-section background-color="#d1d5db" padding="1px 1px 0px 1px" border-radius="12px 12px 0 0">
       <mj-column border-radius="12px 12px 0 0" background-color="#2d3c4d">
-        <mj-image padding="48px" width="260px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/logo-reental.png" alt="Reental"/>
-      </mj-column>
+      <mj-image padding="48px" width="260px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/logo-reental.png" href="https://reental.co/" alt="Reental"/>
+	</mj-column>
     </mj-section>
     <mj-section background-color="#d1d5db" padding="0px 1px 1px 1px" border-radius="0 0 12px 12px">
       <mj-column border-radius="0 0 12px 12px" background-color="#ffffff">
