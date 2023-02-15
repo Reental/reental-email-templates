@@ -12,23 +12,17 @@
       </mj-section>
       <mj-section background-color="#d1d5db" padding="1px" border-radius="0 0 12px 12px">
         <mj-column border-radius="0 0 12px 12px" background-color="#ffffff">
-          <mj-text padding="32px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">¡Bienvenido/a!</mj-text>
+          <mj-text padding="32px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">¡Enhorabuena Reentel!</mj-text>
   
-          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Ya te queda poco para empezar a invertir en Reental. Tan solo debes seguir los siguientes pasos:</mj-text>
-  
-          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827"><b>1.</b> Si ya eres un usuario cripto/Web3 entra a <a href="https://app.rental.co" style="color:#FCA311">la plataforma</a> y completa tu KYC.</mj-text>
-  
-          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827"><b>2.</b> Si no sabes cómo interactuar con los servicios cripto/Web3, <a href="https://youtube.com/playlist?list=PLLlH-csIojWGaDl5e2hMyVDbo6uBtBh9d" style="color:#FCA311"> revisa antes esta lista de reproducción en Youtube.</a></mj-text>
-          
-          <mj-text padding="16px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">¡Aprovecha la oportunidad, haz que tu dinero trabaje por ti!</mj-text>
-          <mj-text padding="8px 32px 4px" font-size="16px" line-height="1.4" color="#111827">También puedes descargarte esta <span style="color:#FCA311">GUÍA</span> con toda la información que necesitas tener, sobre cómo invertir desde 0 en <span style="font-weight:700;color:#FCA311">Reental</span>.</mj-text>
-          <mj-button href="https://info.reental.co/hubfs/Ebook%20de%20Reental%20-%20Invertir%20desde%200%20VF2.pdf" padding="0px 32px" border-radius="16px" background-color="#FCA311" font-size="16px"	color="white">
-            DESCARGAR GUÍA
+          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Has realizado un retiro de los beneficios que han ido produciendo tus tokens. 
+          </mj-text>  
+         
+          <mj-button href="https://app.reental.co/" padding="0px 32px" border-radius="16px" background-color="#FCA311" font-size="16px"	color="white">
+							Ir a mi perfil
           </mj-button>
+          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Si tienes alguna duda puedes contactar con nosotros en <b>hola@reental.co</b> o en cualquiera de nuestras redes sociales o agendar una videollamada a través de nuestro servicio gratuito para Reentels:</mj-text>
   
-          <mj-text padding="16px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">¿Tienes dudas?</mj-text>
-          <mj-text padding="8px 32px" line-height="1.4" font-size="16px" color="#111827">Responde a este mail y te ayudaremos, o agenda una videollamada a través de nuestro servicio gratuito para Reentels:</mj-text>
-          <mj-image padding="8px 32px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/reental-calendar.png" href="https://info.reental.co/contacto#soporte" alt="Reental"/>
+            <mj-image padding="8px 32px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/reental-calendar.png" href="https://info.reental.co/contacto#soporte" alt="Reental"/>
   
           <mj-text padding="12px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">Un saludo,</mj-text>
           <mj-text padding="12px 32px 8px" font-weight="700" font-size="16px" color="#111827">Carmen de la Vara</mj-text>
@@ -41,4 +35,6 @@
           </mj-column>
       </mj-section>
     </mj-body>
+  </mjml>
+
 
