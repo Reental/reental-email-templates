@@ -21,7 +21,7 @@
           <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827"><b>NO tienes una wallet:</b> te la puedes crear siguiendo los pasos desde <a href="https://www.youtube.com/watch?v=wwqz-plELPk&list=PLLlH-csIojWGaDl5e2hMyVDbo6uBtBh9d" style="color:#FCA311">aquí</a> y después solicitar el Whitelist desde <a href="https://app.reental.co/settings/whitelist/" style="color:#FCA311">aquí</a></mj-text>
   
           <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Te dejamos un video sobre como es el proceso de whitelist dentro de la plataforma por si tienes algún problema:</mj-text>
-          <mj-button href="https://youtube.com/playlist?list=PLLlH-csIojWGaDl5e2hMyVDbo6uBtBh9d" padding="0px32px" border-radius="16px" background-color="#FCA311" font-size="16px"	color="white">
+          <mj-button href="https://youtu.be/RNi4dRYFGSQ?t=190" padding="0px32px" border-radius="16px" background-color="#FCA311" font-size="16px"	color="white">
             ¿CÓMO ES EL PROCESO DE WHITELIST?
           </mj-button>
   
