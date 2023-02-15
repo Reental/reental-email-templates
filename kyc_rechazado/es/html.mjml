@@ -7,29 +7,22 @@
       </mj-section>
       <mj-section background-color="#d1d5db" padding="1px" border-radius="12px 12px 0 0">
         <mj-column border-radius="12px 12px 0 0" background-color="#2d3c4d">
-          <mj-image padding="48px" width="260px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/logo-reental.png" alt="Reental"/>
+          <mj-image padding="48px" width="260px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/logo-reental.png" href="https://reental.co/" alt="Reental"/>
         </mj-column>
       </mj-section>
       <mj-section background-color="#d1d5db" padding="1px" border-radius="0 0 12px 12px">
         <mj-column border-radius="0 0 12px 12px" background-color="#ffffff">
-          <mj-text padding="32px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">¡Hola Reentel!</mj-text>
+          <mj-text padding="32px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">¡Hola!</mj-text>
   
-          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Tu perfil ha sido validado con éxito, ahora debes añadir tu wallet a la <span style="color:#FCA311">WHITELIST</span> como paso obligado antes de invertir en inmuebles tokenizados: solo las cuentas <span style="color:#FCA311">whitelisteadas</span> pueden interactuar con nuestros tokens, es un requisito legal que debemos cumplir al 100%. ¿Cómo hacerlo?</mj-text>
+          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Hemos revisando tu solicitud de KYC y hemos encontrado algunos errores, por favor ingresa en tu perfil para modificarlo y que podamos validarte el perfil.</mj-text>           
+          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Si tienes alguna duda puedes contactar con nosotros en <b>hola@reental.co</b> o en cualquiera de nuestras redes sociales.</mj-text>
   
-          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827"><b>SI tienes una wallet:</b> accede a la DAPP para solicitar el Whitelist desde <a href="https://app.reental.co/settings/whitelist/" style="color:#FCA311">aquí</a></mj-text>
   
-          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827"><b>NO tienes una wallet:</b> te la puedes crear siguiendo los pasos desde <a href="https://www.youtube.com/watch?v=wwqz-plELPk&list=PLLlH-csIojWGaDl5e2hMyVDbo6uBtBh9d" style="color:#FCA311">aquí</a> y después solicitar el Whitelist desde <a href="https://app.reental.co/settings/whitelist/" style="color:#FCA311">aquí</a></mj-text>
-  
-          <mj-text padding="8px 32px" font-size="16px" line-height="1.4" color="#111827">Te dejamos un video sobre como es el proceso de whitelist dentro de la plataforma por si tienes algún problema:</mj-text>
-          <mj-button href="https://youtu.be/RNi4dRYFGSQ?t=190" padding="0px32px" border-radius="16px" background-color="#FCA311" font-size="16px"	color="white">
-            ¿CÓMO ES EL PROCESO DE WHITELIST?
-          </mj-button>
-  
-          <mj-text padding="16px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">¿Tienes dudas?</mj-text>
+          <mj-text padding="16px 32px 8px" font-weight="700" font-size="16px" color="#FCA311"><b>¿Tienes dudas?</b></mj-text>
           <mj-text padding="8px 32px" line-height="1.4" font-size="16px" color="#111827">Responde a este mail y te ayudaremos, o agenda una videollamada a través de nuestro servicio gratuito para Reentels:</mj-text>
-          <mj-image padding="8px 32px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/reental-calendar.png" href="https://info.reental.co/contacto#soporte" alt="Reental"/>  
-          
-          <mj-text padding="12px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">Un saludo</mj-text>
+          <mj-image padding="8px 32px" align="center" src="https://d23t4e7dm0xzj0.cloudfront.net/images/reental-calendar.png" href="https://info.reental.co/contacto#soporte" alt="Reental"/>
+  
+          <mj-text padding="12px 32px 8px" font-weight="700" font-size="16px" color="#FCA311">Un saludo,</mj-text>
           <mj-text padding="12px 32px 8px" font-weight="700" font-size="16px" color="#111827">Carmen de la Vara</mj-text>
           <mj-text padding="0px 32px 24px" font-size="16px" color="#111827">Head of Customer Success</mj-text>
         </mj-column>
@@ -41,4 +34,5 @@
       </mj-section>
     </mj-body>
   </mjml>
+
   
